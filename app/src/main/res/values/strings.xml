@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Selamat Datang di Tokopedia!</string>
+    <string name="app_name1">Nikmati Kemudahan Berbelanja di Rumah! </string>
+    <string name="sign_up">Register</string>
+    <string name="Login">Masuk</string>
+    <string name="masuklain">atau masuk dengan</string>
+    <string name="daftar">Belum Punya Akun Tokopedia?</string>
+    <string name="daftar2">Daftar</string>
+</resources>
